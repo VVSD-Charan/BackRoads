@@ -36,3 +36,16 @@ export const toursFooter = [
     {id:7,href:tour7,date:'july 8th 2022',title:`Liberty's Radiance`,text:"The Statue of Liberty stands tall, radiating grace and strength. Her majestic figure represents freedom and hope, with a torch held high to guide the way. A symbol of beauty and liberty, she captivates hearts with her timeless charm, standing as a testament to the human spirit.",country:'USA',duration:'13 days',price:'from $5800'},
     {id:8,href:tour8,date:'may 3rd 2023',title:`Colosseum`,text:"The Colosseum, a breathtaking marvel of ancient Rome, captivates with its grandeur. Its majestic arches, weathered by time, echo tales of gladiator valor. Sunlight dances through its worn corridors, casting shadows on its storied walls. A timeless beauty, an enduring testament to human ingenuity.",country:'Italy',duration:'9 days',price:'from $4300'}
 ];
+
+export const footerIcons = [
+    {id:1,href:'https://www.facebook.com',icon:'fab fa-facebook'},
+    {id:2,href:'https://www.twitter.com',icon:'fab fa-twitter'},
+    {id:3,href:'https://www.twitter.com',icon:'fab fa-squarespace'}
+];
+
+export const footerLinks = [
+    {id:1,href:'#home',title:'home'},
+    {id:2,href:'#about',title:'about'},
+    {id:3,href:'#services',title:'services'},
+    {id:4,href:'#featured',title:'featured'}
+];
