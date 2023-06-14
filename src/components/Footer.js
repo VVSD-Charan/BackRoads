@@ -28,8 +28,8 @@ export const Footer = () =>{
         }
       </ul>
       <p className="copyright">
-        copyright &copy; Backroads travel tours company
-        <span id="date"></span> all rights reserved
+        copyright &copy; VVSDC
+        <span id="date"></span> All Rights Reserved
       </p>
     </footer>
     );
